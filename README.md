@@ -1,0 +1,2 @@
+# JUCE-Projects
+Project Folder
